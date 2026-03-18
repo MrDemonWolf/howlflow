@@ -1,0 +1,3 @@
+{
+  "extends": "@howlflow/config/tsconfig.base.json"
+}
